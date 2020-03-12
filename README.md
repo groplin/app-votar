@@ -1,1 +1,1 @@
-# app-votar
+# voting-app
